@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="button_plus" translatable="false">+</string>
+    <string name="button_minus" translatable="false">-</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="result">Result will be here</string>
+    <string name="parse_int_error">Enter a number</string>
+</resources>
